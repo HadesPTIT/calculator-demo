@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">CalculatorDemo</string>
+
+    <string name="error">ERROR</string>
+    <string name="default_result">0</string>
+
+    <!--BOARD ITEM-->
+    <string name="ac">AC</string>
+    <string name="sign">+/-</string>
+    <string name="mod">%</string>
+    <string name="div">/</string>
+    <string name="num7">7</string>
+    <string name="num8">8</string>
+    <string name="num9">9</string>
+    <string name="mul">*</string>
+    <string name="num4">4</string>
+    <string name="num5">5</string>
+    <string name="num6">6</string>
+    <string name="sub">-</string>
+    <string name="num1">1</string>
+    <string name="num2">2</string>
+    <string name="num3">3</string>
+    <string name="add">+</string>
+    <string name="num0">0</string>
+    <string name="dot">.</string>
+    <string name="equal">=</string>
+    <string name="save_last_result">Save Last Result</string>
+    <string name="clear">Clear</string>
+
 </resources>
